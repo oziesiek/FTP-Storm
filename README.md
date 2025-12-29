@@ -51,5 +51,3 @@ You can install the required libraries using pip.
 This tool is intended for educational purposes only. Use it responsibly and only on systems you own or have explicit permission to test. Unauthorized access to computer systems is illegal.
 
 ---
-
-Feel free to contribute to this project or report any issues you encounter. Happy hacking! 🐾
